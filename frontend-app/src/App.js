@@ -1,9 +1,10 @@
 import './App.css';
+import CustomerList from './components/CustomerList.tsx';
 
 function App() {
   return (
     <div>
-      <h1>Customers List</h1>
+      <CustomerList />
     </div>
   );
 }
