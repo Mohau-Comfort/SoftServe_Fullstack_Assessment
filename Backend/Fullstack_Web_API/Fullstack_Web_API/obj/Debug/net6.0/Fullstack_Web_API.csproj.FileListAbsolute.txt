@@ -30,3 +30,7 @@ C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstac
 C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstack_Web_API\Fullstack_Web_API\obj\Debug\net6.0\Fullstack_Web_API.pdb
 C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstack_Web_API\Fullstack_Web_API\obj\Debug\net6.0\Fullstack_Web_API.genruntimeconfig.cache
 C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstack_Web_API\Fullstack_Web_API\obj\Debug\net6.0\ref\Fullstack_Web_API.dll
+C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstack_Web_API\Fullstack_Web_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstack_Web_API\Fullstack_Web_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstack_Web_API\Fullstack_Web_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Mohau\Documents\Git Hub\SoftServe_Fullstack_Assessment\Backend\Fullstack_Web_API\Fullstack_Web_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll

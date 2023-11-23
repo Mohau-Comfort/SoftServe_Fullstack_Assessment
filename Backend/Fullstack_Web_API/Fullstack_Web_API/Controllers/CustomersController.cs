@@ -1,10 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Fullstack_Web_API.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Fullstack_Web_API.Controllers
 {
     [ApiController]
-    [Route("api/[customer]")]
-    public class CustomerController : Controller
+    [Route("[controller]")]
+    public class CustomersController : ControllerBase
     {
         private static List<Customer> _customers = new List<Customer>();
 
