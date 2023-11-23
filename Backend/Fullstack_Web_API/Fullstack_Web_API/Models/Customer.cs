@@ -28,5 +28,8 @@
             return age;
         }
 
+        // Additional property to get only the date part of DateOfBirth
+        public DateTime DateOfBirthDateOnly => DateOfBirth.Date;
+
     }
 }
