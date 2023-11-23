@@ -1,3 +1,6 @@
+using Fullstack_Web_API.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +9,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//Builder service for my model class and dbcontext
+builder.Services.AddDbContext<CustomerDbContext>(options => options.UseInMemoryDatabase("CustomerDb"));
 
 var app = builder.Build();
 
